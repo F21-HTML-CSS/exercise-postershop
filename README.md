@@ -2,7 +2,7 @@
 
 ## Instruktioner
 
-Bygg följande layout i HTML och CSS med hjälp av `flexbox`. Försök att jobba utifrån block > container > element-principen. Börja med att se över skissen och dela in den i olika containers.
+Bygg följande layout i HTML och CSS med hjälp av `flexbox`. Börja med att se över skissen och dela in den i olika containers.
 
 ### Figma
 
